@@ -1,2 +1,3 @@
-# Bootcamp_IGTI_ML_Analyst
-Codes created during the bootcamp Machine Learning Analyst, IGTI
+# Bootcamp Analista de Machine Learning
+
+Atividades desenvolvidas durante o Bootcamp de Analista de Machine Learning, realizado pelo IGTI.
